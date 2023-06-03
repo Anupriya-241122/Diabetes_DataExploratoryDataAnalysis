@@ -16,7 +16,7 @@ DiabetesPedigreeFunction: Diabetes pedigree function
 Age: Age (years)
 Outcome: Class variable (0 or 1)
 
-I have performed explpratory data analysis on this data on jupyter notebook using python.
+I have performed exploratory data analysis on this data on jupyter notebook using python.
 Firstly imported the libraries pandas and numpy.
 For futher more details of project I would request to open EDA.Diabetes_Data.ipynb file ,also it inclueds question and solution
 in each steps with explaination which will help you to easily understand the use of function.I have more focused towards evaluating missing data 
