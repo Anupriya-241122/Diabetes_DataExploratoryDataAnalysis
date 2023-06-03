@@ -2,7 +2,7 @@
 I'm thrilled to announce that this is my first PYTHON PROJECT.
 This repository contains data analysis of diabetes patients.
 EDA: Diagnosing Diabetes
-In this project, As a Data Analyst I have to exploring data that looks at how certain diagnostic factors affect the diabetes outcome of women patients.
+In this project, As a Data Analyst I have to explore data that looks at how certain diagnostic factors affect the diabetes outcome of women patients.
 I have conducted EDA skills to help inspect, clean, and validate the data.
 Note: This dataset is from the National Institute of Diabetes and Digestive and Kidney Diseases avaliable on Kaggle. It contains the following columns:
 
